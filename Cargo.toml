@@ -1,0 +1,5 @@
+[package]
+name = "co-structs-net-proto"
+version = "0.1.0"
+authors = ["tarouka"]
+description = "CO Network protocol structures"
